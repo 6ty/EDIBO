@@ -6,6 +6,9 @@ EDIBO projekta elektroniska klade
 Topics:
 - Terminal (Hot-Keys&Basic commands)
   - Hot-Keys:
+  Ctrl + alt + t
+  Ctrl + l
+- Basics commands:
   
 - Shell (Basics)
 - Git (Basics)
