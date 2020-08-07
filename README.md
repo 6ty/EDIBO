@@ -5,10 +5,10 @@ EDIBO projekta elektroniska klade
 
 Topics:
  1. Terminal (Hot-Keys&Basic commands)
- ###### 1.1 Hot-Keys:
+ **1.1 Hot-Keys:**
   - ***Ctrl + alt + t*** // *open terminal*
   - ***Ctrl + l*** // *clean terminal*
- ###### 1.2 Basics commands:
+ **1.2 Basics commands:**
   
  2. Shell (Basics)
  3. Git (Basics)
