@@ -4,6 +4,8 @@ EDIBO projekta elektroniska klade
 ## Day 1-2 journey
 
 Topics:
-- Terminal (hot-keys)
+- Terminal (Hot-Keys&Basic commands)
+  - Hot-Keys:
+  
 - Shell (Basics)
 - Git (Basics)
