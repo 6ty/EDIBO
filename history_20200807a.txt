@@ -1,53 +1,26 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  n
-    4  l
-    5  history
-    6  ls -a
-    7  man ls
-    8  PS1="$"
-    9  SP1="$"
-   10  echo $0
-   11  sh
-   12  ls
-   13  sh
-   14  echo $0
-   15  whoami
-   16  who
-   17  last
-   18  firefox
-   19  pwd
-   20  ls
-   21  ls -l -a
-   22  cd Desktop/
-   23  cd -
-   24  pwd
-   25  cd Desktop/
-   26  PWD
-   27  pwd
-   28  cd /home
-   29  pwd
-   30  cd
-   31  cd Desktop/
-   32  PWD
-   33  pwd
-   34  cd ../..
-   35  cd ..
-   36  tree
-   37  hjsbfhj
-   38  hostname
-   39  man tree
-   40  tree -d
-   41  nano
-   42  git clone https://github.com/6ty/EDIBO
-   43  ls -lt
-   44  cd EDIBO
-   45  ls -lt
-   46  ls -lta
-   47  ls -lt
-   48  hexdump 
-   49  hexdump -C README.md 
-   50  cat README.md 
-   51  nano README.md 
-   52  history
-   53  history > history_20200807a.txt
+    3  ls
+    4  whereis ls
+    5  ls /bin/ls
+    6  ls -l
+    7  /home/user/EDIBO/README.md
+    8  chmod 764 README.md 
+    9  ls -l
+   10  /home/user/EDIBO/README.md
+   11  cat README.md 
+   12  /bin/ls
+   13  ls
+   14  ls -l /bin/ls
+   15  cat /bin/ls
+   16  /bin/ls
+   17  ls -l /bin/ls
+   18  ls
+   19  ls -lt
+   20  chmod 664 README.md 
+   21  ls -lt
+   22  chmod 644 README.md 
+   23  ls -lt
+   24  history
+   25  pwd
+   26  history > history_20200807a.txt
