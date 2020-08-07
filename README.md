@@ -4,13 +4,11 @@ EDIBO projekta elektroniska klade
 ## Day 1-2 journey
 
 Topics:
-- Terminal (Hot-Keys&Basic commands)
-  - Hot-Keys:
+1. Terminal (Hot-Keys&Basic commands)
+  1.1 Hot-Keys:
   Ctrl + alt + t
-  
-  
   Ctrl + l
-- Basics commands:
+  1.2 Basics commands:
   
-- Shell (Basics)
-- Git (Basics)
+2. Shell (Basics)
+3. Git (Basics)
