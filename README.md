@@ -8,6 +8,7 @@ Topics:
  - **1.1 Hot-Keys:**
   - ***Ctrl + alt + t*** // *open terminal*
   - ***Ctrl + l*** // *clean terminal*
+  *I will add others commands later :D*
  - **1.2 Basics commands:**
   - pwd
   - ls
