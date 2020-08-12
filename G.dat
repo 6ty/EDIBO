@@ -1,0 +1,70 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  PS1="$ "
+    4  pwd
+    5  ls
+    6  clone github.com/6ty/EDIBO
+    7  ls
+    8  mrdir DAY4
+    9  pwd
+   10  cd EDIBO
+   11  pwd
+   12  ls
+   13  cd EDIBO
+   14  pwd
+   15  ls
+   16  cd SHELL$
+   17  ls
+   18  PS1="$ "
+   19  pwd
+   20  git clone github.com/6ty/EDIBO
+   21  git clone https://github.com/6ty/EDIBO
+   22  pwd
+   23  ls
+   24  cd EDIBO
+   25  pwd
+   26  mkdir SHELL$
+   27  pwd
+   28  ls
+   29  cd SHELL$
+   30  pwd
+   31  cd ..
+   32  pwd
+   33  cd README.md
+   34  nano README.md
+   35  python
+   36  ipython
+   37  nano first_python_script.py
+   38  firefox 
+   39  ls -lt
+   40  first_python_script.py
+   41  nano first_python_script.py
+   42  python first_python_script.py
+   43  nano first_python_script.py
+   44  python first_python_script.py
+   45  cp first_python_script.py second_python_script_like_executable.py
+   46  ls -lt
+   47  whereis python
+   48  nano second_python_script_like_executable.py
+   49  chmod 744 second_python_script_like_executable.py 
+   50  ls -lt
+   51  ./second_python_script_like_executable.py 
+   52  ./second_python_script_like_executable.py
+   53  ./
+   54  nano second_python_script_like_executable.py
+   55  ./second_python_script_like_executable.py
+   56  idle &
+   57  ls -lt
+   58  cd ..
+   59  pwd
+   60  history
+   61  history > history_20200812a.txt
+   62  ls
+   63  PS1="$ "
+   64  pwd
+   65  ipython
+   66  lol
+   67  iphytone
+   68  ipython
+   69  history
+   70  history > G.dat
