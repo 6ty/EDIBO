@@ -1,0 +1,177 @@
+    1  history
+    2  pwd
+    3  history
+    4  history
+    5   SP1="$ "
+    6  git clone github.com/6ty/EDIBO
+    7  pwd
+    8  ls
+    9  cd Documents
+   10  pwd
+   11  mkdir SHELL$
+   12  ls
+   13  SHELL$ nano DAY4.txt
+   14  SHELL$ nano DAY4
+   15  git clone https://github.com/6ty/EDIBo
+   16  git clone https://github.com/6ty/EDIB)
+   17  git clone https://github.com/6ty/EDIBO
+   18  pwd
+   19  ls
+   20  ls
+   21  cd EDIBO
+   22  ls
+   23  pwd
+   24  pwd
+   25  cd SHELL$
+   26  pwd
+   27  nano test.sh
+   28  ls
+   29  ls -lt
+   30  chomd 744 test.sh
+   31  chomd 744 test.sh*
+   32  chomd 744 test.sh
+   33  chmod 744 test.sh
+   34  ls
+   35  test.sh
+   36  ./test.sh
+   37  ./test.sh 
+   38  ls
+   39  nano test test2.sh
+   40  ls
+   41  nano test2.sh
+   42  ls
+   43  ./test2.sh
+   44  ./test2.sh
+   45  nano test2.sh
+   46  ./test2.sh
+   47  ./test.sh
+   48  nano test.sh
+   49  ls
+   50  nano test2.sh
+   51  rm test2.sh
+   52  ls
+   53  rm test.sh
+   54  ls
+   55  nano test.sh
+   56  ./test.sh
+   57  nano test2.sh
+   58  ./test2.sh
+   59  nano test3.sh
+   60  ./test3.sh
+   61  nano test3.sh
+   62  ./test3.sh
+   63  ./test3.sh
+   64  nano test3.sh
+   65  ./test3.sh
+   66  nano test3.sh
+   67  ls
+   68  nano test4.sh
+   69  ls
+   70  ./test4.sh
+   71  ./test.sh
+   72  ./test4.sh Zara Ali
+   73  ps -aux
+   74  $$
+   75  ps -a
+   76  ps -a | greb 3638
+   77  $$
+   78  ps -a | greb 1400
+   79  nano test4.sh
+   80  ./test4.sh Zara Ali
+   81  ps -a | greb 1863
+   82  ps -a
+   83  ./test.sh
+   84  nano test4.sh
+   85  nano test.sh
+   86  nano test.sh
+   87  ./test.sh
+   88  ./test.sh
+   89* ./test.sh [A
+   90  ./test.sh
+   91  nano test.sh
+   92  nano test5.sh
+   93  ./test5.sh Zara Ali 10 Years old
+   94  ./test5.sh a b c d e
+   95  ./test3.sh
+   96  ./test4.sh
+   97  nano test41.sh
+   98  ls
+   99  nano test6.sh
+  100  ./test6.sh
+  101  nano test6.sh
+  102  nano test7.sh
+  103  nano test7.sh
+  104  ./test7.sh
+  105  ls
+  106  nano test8.sh
+  107  ./test8.sh
+  108  nano test8.sh
+  109  ./test8.sh
+  110  git upload
+  111  ls
+  112  nano test9.sh
+  113  ./test9.sh
+  114  nano test9.sh
+  115  ./test9.sh
+  116  nano test9.sh
+  117  nano test9.sh
+  118  ./test9.sh
+  119  nano test9.sh
+  120  ./test9.sh
+  121  nano test9.sh
+  122  $ echo $(([##2]304))
+  123  nano DecToBin
+  124  nano DecToBin.sh
+  125  ./DecToBin.sh
+  126  ./DecToBin.sh 304
+  127  $> toBinary 304
+  128  $> toBinary 304
+  129  ./DecToBin.sh 304
+  130  nano DecToBin.sh
+  131  ./DecToBin.sh 304
+  132  nano DecToBin.sh
+  133  ./DecToBin.sh 304
+  134  ./DecToBin.sh 304
+  135  nano DecToBin.sh
+  136  ./DecToBin.sh 304
+  137  ./DecToBin.sh 300
+  138  nano DecToBin.sh
+  139  $> toBinary 304
+  140  ./DecToBin.sh $>toBinary 304
+  141  ls
+  142  nano test9.sh
+  143  ./test9.sh
+  144  ды
+  145  ls
+  146  ./toBinary
+  147  nano toBinary
+  148  rm toBinary 
+  149  ls
+  150  nano DecToBin.sh 
+  151  ls
+  152  rm DecToBin.sh
+  153  ls
+  154  nano DecToBin.sh
+  155  ./DecToBin.sh
+  156  ./DecToBin.sh $> toBinary 304
+  157  ./DecToBin.sh $> toBinary 304
+  158  nano DECBIN
+  159  nano DECBIN.sh
+  160  ./DECBIN.sh
+  161  nano DECBIN.sh
+  162  echo ${D2B[85]}
+  163  nano DECBIN.sh
+  164  echo ${D2B[85]}
+  165  nano DECBIN.sh
+  166  ./DECBIN.sh
+  167  nano DECBIN.sh
+  168  ./DECBIN.sh
+  169  nano DECBIN.sh
+  170  ./DECBIN.sh
+  171  nano DECBIN.sh
+  172  ./DECBIN.sh
+  173  history
+  174  history > 11.08.20.txt
+  175  ls
+  176  pwd
+  177  history > 11.08.20.txt
