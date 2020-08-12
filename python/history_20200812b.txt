@@ -1,0 +1,47 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  PS1="$ "
+    4  pwd
+    5  ls
+    6  clone github.com/6ty/EDIBO
+    7  ls
+    8  mrdir DAY4
+    9  pwd
+   10  cd EDIBO
+   11  pwd
+   12  ls
+   13  cd EDIBO
+   14  pwd
+   15  ls
+   16  cd SHELL$
+   17  ls
+   18  PS1="$ "
+   19  pwd
+   20  git clone github.com/6ty/EDIBO
+   21  git clone https://github.com/6ty/EDIBO
+   22  pwd
+   23  ls
+   24  cd EDIBO
+   25  pwd
+   26  mkdir SHELL$
+   27  pwd
+   28  ls
+   29  cd SHELL$
+   30  pwd
+   31  cd ..
+   32  pwd
+   33  cd README.md
+   34  nano README.md
+   35  PS1="$"
+   36  ls
+   37  cd EDIBO
+   38  pwd
+   39  ls
+   40  cd python
+   41  pwd
+   42  nano git-upload
+   43  PS1="$ "
+   44  ls
+   45  pwd
+   46  history
+   47  history > history_20200812b.txt
