@@ -1,0 +1,122 @@
+   1: def f(): pass
+   2: f()
+   3: type(f)
+   4: def f(): print("Hello")
+   5: f()
+   6:
+def g():
+    a = 22
+    print(a+3)
+   7: g()
+   8:
+def g(a):
+    print(a+3)
+   9: g()
+  10:
+def g(22):
+    print(a+3)
+  11:
+def g(a):
+    print(a+3)
+  12: g(22)
+  13:
+def h():
+    c = a + b
+    print(c)
+  14: h(1, 2)
+  15: h(1 2)
+  16: h(1+2)
+  17: g(1,2)
+  18:
+def h(a,b):
+    c = a + b 
+    print(c)
+  19: h(2,3)
+  20:
+def h2(a=22,b=33):
+    c = a + b
+    print(c)
+  21: h2()
+  22: h2(2,3)
+  23:
+def f2(a,b):
+    return(a+b)
+  24: f2(3,4)
+  25: print(f2(3,4))
+  26: ls
+  27: pwd
+  28: mkdir dev
+  29: pwd
+  30: ls
+  31: cd dev
+  32: mkdir python_files
+  33: cd python_files/
+  34: pwd
+  35: echo Hello
+  36: ls
+  37: echo Hello > a.dat
+  38: ls
+  39: echo Hello > a.dat
+  40: echo "Hello" > a.dat
+  41: f = open("a.dat")
+  42: f.close()
+  43: cat a.dat
+  44: f.close()
+  45: f = open("a.dat")
+  46: f.readline()
+  47: f.readline()
+  48: f = open("a.dat")
+  49: s = f.readline()
+  50: f.close
+  51: f.close()
+  52: s
+  53: s
+  54: s
+  55: print(s)
+  56: print(s+s)
+  57: list
+  58: s[0]
+  59: s[2]
+  60:  f = open("a.dat")
+  61: f.tell()
+  62: s = f.readlines()
+  63: f.tell()
+  64: f.seek
+  65: s = f.readlines()
+  66: f.readlines()
+  67: f.seek(0)
+  68: f.readlines()
+  69: f.seek(0)
+  70: f.seek(3)
+  71: f.readlines()
+  72: f.close()
+  73: f = open("a.dat", "r")
+  74: f
+  75: f.readlines()
+  76: f.close()
+  77: f = open("a.dat", "w")
+  78: f.write("EDIBO")
+  79: f.close
+  80: f.close()
+  81: f = open("a.dat", "w")
+  82: f.write("EDIBO\n")
+  83: f.close()
+  84: f = open("a.dat", "w")
+  85: f.write("EDIBO\n")
+  86: f.closed
+  87: f.write("EDIBO 2020 1 month\n")
+  88: f.close()
+  89: f = open("a.dat", "w")
+  90: f.write("\n\nEDIBO\n\n")
+  91: f.close()
+  92: f = open("a.dat", "w")
+  93: f.write(\n 2020 \n"")
+  94: f.write("\n 2020 \n")
+  95: f.close()
+  96: f = open("a.dat", "w")
+  97: f.write("\n\nEDIBO\n\n")
+  98: f = open("a.dat", "a")
+  99: f.write("\n\n2020\\n")
+ 100: f.close()
+ 101: f.close()
+ 102: %history -g -f history.2020.08.13.2.dat

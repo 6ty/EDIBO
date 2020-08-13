@@ -1,0 +1,25 @@
+#! /usr/bin/python3.6
+
+print("Ievadiet skaitli")
+# a=2**20000
+
+#te ir trīs darbības - vertības sagaidīšana, vērtības pārveidošana, piešķirš$
+#argument = input()
+#a = int(arguments)
+
+#pildot int(input()) "bez izmēginajuma" programma var vienkārši izlidot ...
+#tapec lai "nelidotu", mēs izmantosim try ... except .. finally konstrukci$
+
+try:
+a=int( in	put( ))
+except:
+	print("Diemžēl, cinījamais lietotāj, to kas ievadīts nevar parveidot ", 
+\ "par veselo tipa skaitli :-(")
+#if (a == int): print("a**100")
+#ja jau ļoti grībās, tad var salīdzinat type(a) == int -> rezultāts būs True
+if (a == 5):
+	print(a**100)
+	print("Aprekins ir gatavs")
+print("Šīs teksts atrodas arpus darbību bloka - pierakstīts bez",\
+" atstarpēm priekšā, tapēc tas parādīsies jebkurā gadījumā")
+#print ("Ievdaiet skaitli")
