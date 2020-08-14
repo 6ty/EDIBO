@@ -38,7 +38,7 @@ print("After first an.party()")
 an.x = 100
 an.__init__()
 
-print("\nBefore second an.party()")
+    print("\nBefore second an.party()")
 an.party()
 print("After second an.party()")
 
