@@ -1,0 +1,59 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  PS1="$ "
+    4  ip
+    5  ip a
+    6  git clone https://github.com/6ty/EDIBO
+    7  cd 
+    8  cd EDIBO
+    9  pwd
+   10  ls
+   11  ipython &
+   12  exit
+   13  IPYTHON
+   14  ipython 
+   15  ipconfig /all
+   16  ip /all
+   17  ipconfig /all
+   18  ipconfig 
+   19  ifconfig
+   20  curl https://jsonplaceholder.typicode.com/todos/1
+   21  curl https://fake-api.com/api/cars/allcars/Opel | grep Dload
+   22  curl https://fake-api.com/api/cars/allcars/Volkswagen | grep Dload
+   23  curl https://fake-api.com/api/cars/allcars/Volkswagen | grep Dload > a.dat
+   24  cat a.dat
+   25  a.dat
+   26  wc a.dat
+   27  route
+   28  route - n
+   29  route -n
+   30  ping
+   31  ping 10.152.16.1
+   32  ping google.com
+   33  ping github.com
+   34  nslookup
+   35  ping 127.0.0.1
+   36  pwd
+   37  ls
+   38  mkdir Web
+   39  ls
+   40  cd Web/
+   41  ls
+   42  nano index.html
+   43  cat index.html
+   44  python3 -m html.server
+   45  python3 -m https.server
+   46  python3 -m http.server
+   47  curl 127.0.0.1:8000
+   48  ls
+   49  nano index.html 
+   50  cat index.html 
+   51  pwd
+   52  python3 -m http.server
+   53  nano index.html 
+   54  python3 -m http.server
+   55  nano index.html 
+   56  ifconfig
+   57  python3 -m http.server
+   58  history
+   59  history > 20200826.dat
