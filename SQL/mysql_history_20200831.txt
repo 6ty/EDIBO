@@ -1,0 +1,44 @@
+_HiStOrY_V2_
+SELECT\ CURRENT_USER();
+SHOW\ GRANTS\ FOR\ 'user';
+SELECT\ DATABASE();
+SHOW\ TABLES;
+CREATE\ TABLE\ MyTBL_1\ (column1\ varchar(5));
+SHOW\ DATABASES\134
+SHOW\ DATABASES;
+SHOW\ DATABASES\ SHOW\ DATABASES;
+SHOW\ DATABASES;
+USE\ db24;
+CREATE\ TABLE\ MyTBL_1\ (column1\ varchar(5));
+SHOW\ DATABASES;
+USE\ db24;
+CREATE\ TABLE\ MyTBL_1\ (column1\ varchar(5));
+DESCRIBE\ MyTBL_1
+xit
+USE\ db24;\134
+DESCRIBE\ MyTBL_1\ DESCRIBE\ MyTBL_1\ \ \ \ xit\ USE\ db24;
+DESCRIBE\ MyTBL_1;
+SHOW\ TABLE\ STATUS\ FROM\ db24;
+SHOW\ TABLE\ STATUS\ FROM\ db24\ WHERE\ NAME='MyTBL_1';
+SELECT\ *\ FROM\ MyTBL_1;
+INSERT\ INTO\ MyTL_0\ (column1)\ VALUES\ (text1);
+INSERT\ INTO\ MyTL_0\ (column1)\ VALUES\ ('text1');
+INSERT\ INTO\ MyTBL_1\ (column1)\ VALUES\ ('text1');
+SELECT\ *\ FROM\ MyTBL_1;
+INSERT\ INTO\ MyTBL_1\ (column1)\ VALUES\ ('text2');
+SELECT\ *\ FROM\ MyTBL_1;
+exit
+ALERT\ TABLE\ MyTBL_1\ ADD\ column2_int;
+ALERT\ TABLE\ MyTBL_1\ ADD\ column2\ int;
+ALTER\ TABLE\ MyTBL_1\ ADD\ column2\ int;
+SELECT\ *\ FROM\ MyTBL_1;
+USE\ db24;
+ALTER\ TABLE\ MyTBL_1\ ADD\ column2\ int;
+SELECT\ *\ FROM\ MyTBL_1;
+ALTER\ TABLE\ MyTBL_1\ ALTER\ COLUMN\ column2\ INT\ NOT\ NULL;
+ALTER\ TABLE\ Mytbl_1\ MODIFY\ column2\ INT\ NOT\ NULL;
+INSERT\ INTO\ MyTBL_1\ (column1)\ VALUES\ ('text3');
+SELECT\ *\ FROM\ MyTBL_1;
+ALTER\ TABLE\ Mytbl_1\ MODIFY\ column2\ INT\ NOT\ NULL;
+ALTER\ TABLE\ Mytbl_1\ MODIFY\ column2\ varchar(5)\ NOT\ NULL;
+exit;
