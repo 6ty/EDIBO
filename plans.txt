@@ -30,17 +30,19 @@ Kollonai ir nosaukums(vienas tabulas ietvaros nedrīkst atkārtoties) un datu ti
 	AUTO_INCREMENT
 	FOREIGN KEY
 	*CURRENT_TIMESTAMP()
+	PRIMARY KEY (ja tabulai tas ir, tad pirms pievienošanas sākuma ir japilda DROP PRIMARY KEY)
 1.0.14. tabulas struktura modificēšana - ALTER TABLE TABLE_NAME ADD COLUMN_NAME DATATYPE ...;
 * modifificēšana -pielikt lauku, izmainīt lauka īpašības, dzēst lauku
 ** ALETR TABLE TABLE_NAME MODIFY COLUMN_NAME DATATYPE ...;
 ***ALTER TABLE TABLE_NAME ALTER COLUMN COLUMN_NAME DATATYPE ...;
 1.0.15. ierakstu pievienošana - INSERT TABLE_NAME (COLUMN_NAME) VALUES (VALUE);
-1.0.16. ierakstu rediģēšana - UPDATE TABLE_NAME SET SOLUMN_NAME=VALUE WHERE COLUMN_NAME=VALUE
-1.0.17.
+1.0.16. ierakstu rediģēšana - UPDATE TABLE_NAME SET SOLUMN_NAME=VALUE WHERE COLUMN_NAME=VALUE;
+1.0.17. ierakstu dzēšana - DELETE FROM TABLE_NAME WHERE COLUMN_NAME=VALUE;
 
 
 1.1. SQL online simulator
 hhtps://paiza.io
+httpls://www.w3schools.com/sql/
 
 1.2. SQL local DB (?)
 1.2.1 Do we have sql
