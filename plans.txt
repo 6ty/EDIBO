@@ -30,6 +30,7 @@ Kollonai ir nosaukums(vienas tabulas ietvaros nedrīkst atkārtoties) un datu ti
 	AUTO_INCREMENT
 	FOREIGN KEY
 	*CURRENT_TIMESTAMP()
+	
 	PRIMARY KEY (ja tabulai tas ir, tad pirms pievienošanas sākuma ir japilda DROP PRIMARY KEY)
 1.0.14. tabulas struktura modificēšana - ALTER TABLE TABLE_NAME ADD COLUMN_NAME DATATYPE ...;
 * modifificēšana -pielikt lauku, izmainīt lauka īpašības, dzēst lauku
