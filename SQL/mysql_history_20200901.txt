@@ -1,0 +1,88 @@
+_HiStOrY_V2_
+exit
+exit;
+UPDATE\ MyTBL_1\ SET\ column3=1\ WHERE\ column2=0;
+UPDATE\ MyTBL_1\ SET\ column3=2\ WHERE\ column2=200;
+UPDATE\ MytBL_1\ SET\ column3=1\ WHERE\ column1='text1';
+UPDATE\ MyTBL_1\ SET\ column3=1\ WHERE\ column1='text1';
+USE\ db24;
+UPDATE\ MyTBL_1\ SET\ column3=1\ WHERE\ column1='text1';
+DESCRIBE\ MyTBL_1;
+SELECT\ *\ FROM\ MyTBL_1
+exit
+exit;
+SELECT\ *\ FROM\ MyTBL_1\ exit\ exit;
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL_1\ SET\ column3=2\ WHERE\ column1='text2';
+UPDATE\ MyTBL_1\ SET\ column3=3\ WHERE\ column1='text3';
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL_1\ SET\ column3=A\ WHERE\ column1='text1';
+UPDATE\ MyTBL_1\ SET\ column3=1.1\ WHERE\ column1='text1';
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL_1\ SET\ column3=10\ WHERE\ column1='text1';
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL_1\ SET\ column3=1\ WHERE\ column1='text1';
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL_1\ SET\ column2=10\ WHERE\ column1='text1';
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL_1\ SET\ column2=20\ WHERE\ column1='text2';
+UPDATE\ MyTBL_1\ SET\ column2=30\ WHERE\ column1='text3';
+SELECT\ *\ FROM\ MyTBL_1;
+ALTER\ TABLE\ My_TBL_1\ ADD\ PRIMARY\ KEY(column3)
+exit;
+ALTER\ TABLE\ My_TBL_1\ ADD\ PRIMARY\ KEY(column3)\ exit;
+ALTER\ TABLE\ My_TBL_1\ ADD\ PRIMARY\ KEY(column3);
+ALTER\ TABLE\ MyTBL_1\ ADD\ PRIMARY\ KEY(column3);
+SELECT\ *\ FROM\ MyTBL_1;
+DESCRIBE\ MyTBL_1
+exit;
+DESCRIBE\ MyTBL_1\ exit;
+DESCRIBE\ MyTBL_1;
+INSERT\ INTO\ MyTBL_1\ (column2)\ VALUE\ (155);
+SELECT\ *\ FROM\ MyTBL_1;
+INSERT\ INTO\ MyTBL_1\ (column2)\ VALUE\ (255);
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL\ SET\ column1='ABCDE'\ WHERE\ column3=2;
+UPDATE\ MyTBL_1\ SET\ column1='ABCDE'\ WHERE\ column3=2;
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL_1\ SET\ column1='ABCDEF'\ WHERE\ column3=2;
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL_1\ SET\ column1='ABCDEF'\ WHERE\ column3=1;
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL_1\ SET\ column1='ABCDE1'\ WHERE\ column3=1;
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL_1\ SET\ column1='ABCD1'\ WHERE\ column3=1;
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL_1\ SET\ column1='ABCD2'\ WHERE\ column3=2;
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL_1\ SET\ column1='ABCD3'\ WHERE\ column3=3;
+SELECT\ *\ FROM\ MyTBL_1;
+ALTER\ TABLE\ MyTBL_1\ DROP\ PRIMARY\ KEY,\ ADD\ PRIMARY\ KEY\ (column2,\ column3);
+SELECT\ *\ FROM\ MyTBL_1;
+DESCRIBE\ MyTBL_1
+EXIT;
+DESCRIBE\ MyTBL_1\ EXIT;
+DESCRIBE\ MyTBL_1;
+SELECT\ *\ FROM\ MyTBL_1;
+ALTER\ TABLE\ MyTBL_1\ MODIFY\ column3\ INT\ AUTO_INCREMENT;
+SHOW\ TABLE\ STATUS\ WHERE\ NAME='MyTBL_1';
+ALTER\ TABLE\ MyTBL_1\ MODIFY\ column3\ INT\ AUTO_INCREMENT;
+ALTER\ TABLE\ MyTBL_1\ MODIFY\ column3\ INT\ PRIMARY\ KEY\ AUTO_INCREMENT;
+ALTER\ TABLE\ MyTBL_1\ MODIFY\ column3\ INT\ PRIMARY\ KEY\ AUTO_INCREMENT,\ column2\ INT\ PRIMARY\ KEY;\ 
+SELECT\ *\ FROM\ MyTBL_1;
+ALTER\ TABLE\ MyTBL_1\ MODIFY\ column3\ INT\ PRIMARY\ KEY\ AUTO_INCREMENT;
+UPDATE\ MyTBL_1\ SET\ column1='ABCD4'\ WHERE\ column3=0;
+SELECT\ *\ FROM\ MyTBL_1;
+UPDATE\ MyTBL_1\ SET\ column1='ABCD4'\ WHERE\ column3=4;
+UPDATE\ MyTBL_1\ SET\ column3=4\ WHERE\ column1='ABCD4'
+EXIT;
+UPDATE\ MyTBL_1\ SET\ column3=4\ WHERE\ column1='ABCD4'\ EXIT;
+UPDATE\ MyTBL_1\ SET\ column3=4\ WHERE\ column1='ABCD4':
+EXIT;
+UPDATE\ MyTBL_1\ SET\ column3=4\ WHERE\ column1='ABCD4':\ EXIT;
+UPDATE\ MyTBL_1\ SET\ column3=4\ WHERE\ column1='ABCD4';
+SELECT\ *\ FROM\ MyTBL_1;
+DESCRIBE\ MyTBL_1;
+DESCROBE\ MyTBL_1;
+DESCRIBE\ MyTBL_1;
+EXIT;
