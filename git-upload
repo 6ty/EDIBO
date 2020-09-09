@@ -3,4 +3,5 @@
 git config --global user.email t27742664@gmail.com
 git add .
 git commit -m "20200904_17_12"
+git pull
 git push origin master
