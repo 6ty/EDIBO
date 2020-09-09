@@ -1,0 +1,115 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  -lts /home/user/dumps
+    4  ls -lts /home/user/dumps
+    5  ls -lts /home/user/dumps/Dump20200904
+    6  cat /home/user/dumps/Dump20200904
+    7  cat /home/user/dumps/Dump20200904/db_24_MyTBL_1.sql
+    8  ls -lts /home/user/dumps/Dump20200904
+    9  ls
+   10  git clone https://github.com/6ty/EDIBO
+   11  cd EDIBO/
+   12  ls
+   13  cd SQL
+   14  ls
+   15  nano technical_task.txt
+   16  ls -lta
+   17  ls ../../dump/
+   18  ls ../../dumps/
+   19  cp -r ../../dumps/Dump20200904-1/ ./
+   20  ls -lta
+   21  cd ..
+   22  nano git-upload 
+   23  ./git-upload 
+   24  ls
+   25  git config --global user.name "Artur Ivo"
+   26  git config --global user.email "tt27742664@gmail.com"
+   27  git clone https://gitlab.com/6ty/newone.git
+   28  cd newone
+   29  touch README.md
+   30  git add README.md
+   31  git commit -m "add README"
+   32  git push -u origin master
+   33  pwd
+   34  ls
+   35  ssh-keygen
+   36  ls -l
+   37  cat gitlabkey.pub
+   38  nvm i 12
+   39  export NVM_DIR="$HOME/.nvm" && ( git clone https://github.com/nvm-sh/nvm.git "$NVM_DIR"; cd "$NVM_DIR"; git checkout `git describe --abbrev=0 --tags --match "v[0-9]*" $(git rev-list --tags --max-count=1)`; ) && \. "$NVM_DIR/nvm.sh"
+   40  nvm i 12
+   41  node -v
+   42  npm -v
+   43  npx -v
+   44  du -hs
+   45  rm gitlabkey
+   46  ls
+   47  rm gitlabkey.pub
+   48  ls
+   49  npm i create-react-app
+   50  ls
+   51  npx create-react-app my-react-app
+   52  code .
+   53  yarn start
+   54  npm start
+   55  ls
+   56  cd my-react-app/
+   57  ls
+   58  nmp start
+   59  ls
+   60  pwd
+   61  npm starts
+   62  npm start
+   63  ls
+   64  npm i bootstrap
+   65  ls
+   66  PS1="$ "
+   67  git clone https://github.com/6ty/EDIBO
+   68  ls
+   69  cd EDIBO/
+   70  ls
+   71  export NVM_DIR="$HOME/.nvm" && ( git clone https://github.com/nvm-sh/nvm.git "$NVM_DIR"; cd "$NVM_DIR"; git checkout `git describe --abbrev=0 --tags --match "v[0-9]*" $(git rev-list --tags --max-count=1)`; ) && \. "$NVM_DIR/nvm.sh"
+   72  nvm i 12
+   73  node -v
+   74  export NVM_DIR="$HOME/.nvm"
+   75  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+   76  npm install -g @angular/cli
+   77  ls
+   78  mkdir Angular
+   79  ls
+   80  cd Angular
+   81  ls
+   82  npm install -g @angular/cli
+   83  ls
+   84  ng new MyApp
+   85  ls
+   86  cd MyApp
+   87  ls
+   88  ng add @angular/material
+   89  pwd
+   90  ls -lt
+   91  code .
+   92* 
+   93  ng add @angular/material
+   94  ls
+   95  code .
+   96  pwd
+   97  ls
+   98  cd scr
+   99  cd src
+  100  mkdir Buttons
+  101  cd Buttons
+  102  [wd
+  103  pwd
+  104  ls
+  105  nano button-overview-example.css
+  106  nano button-overview-example.html
+  107  nano button-overview-example.ts
+  108  ls
+  109  cd ..
+  110  ls
+  111  pw
+  112  pwd
+  113  code .
+  114  history
+  115  history > history20200909.txt
